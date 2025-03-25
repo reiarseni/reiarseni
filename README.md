@@ -68,14 +68,17 @@ I'm a Computer Science graduate and seasoned Full Stack Developer with a decade 
 ### 🌟 Professional Philosophy
 > "Programming is like scaling a mountain of technical challenges, where each precise solution propels you to the summit and each wrong choice precipitates you into the abyss."
 > "Every line of code should be written with purpose, every project built with passion, and every solution delivered with precision."
+> 
+
+### 🌟 Professional Philosophy
+
+> - "Programming is like scaling a mountain of technical challenges, where each precise solution propels you to the summit and each wrong choice precipitates you into the abyss."
+> 
+> - "Every line of code should be written with purpose, every project built with passion, and every solution delivered with precision."
+
 ---
 
 <div align="center">
   <a href="https://reiarseni.net/">Website</a> •
-  <a href="https://www.linkedin.com/in/reiarseni/">LinkedIn</a> •
   <a href="mailto:reiarseni@gmail.com">Email</a>
-</div>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=reiarseni&icon=0&color=4" alt="Profile Views" />
 </div>
